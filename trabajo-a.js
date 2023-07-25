@@ -38,4 +38,6 @@ for (var i = 1; i <= cantidadDeGatos; i++) {
           } else {
             console.log("Gato #" + i + ": 😹");
           }
-        }    
+        } 
+        console.log(" ")   
+        console.log(" ") 

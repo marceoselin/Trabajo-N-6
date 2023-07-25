@@ -1,5 +1,5 @@
- 
-
+ console.log("Ejercico C")
+ console.log(" ")
  var cantidadDeGatos = 15;
  var cantidadDePasos = 3;
 
@@ -7,6 +7,6 @@
     if( i% 2 == 0){
         console.log("gato #  " + i + ": 🐈 🐾 🐾 🐾")
     }else{
-        console.log("gato # " + i + "🐈⬛ 🐾 🐾 🐾")
+        console.log("gato # " + i + ":🐈⬛ 🐾 🐾 🐾")
     }
  }

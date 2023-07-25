@@ -1,5 +1,6 @@
 
-
+console.log("Ejercicio B")
+console.log(" ")
 
 
 var cantidadDeGatos = 12
@@ -24,4 +25,5 @@ var cantidadDePasos = 1;
 for(i=1; i<= cantidadDeGatos; i++){
     console.log("gato # " + i + " : 🐈 🐾  ")
 }
-
+console.log(" ")
+console.log(" ")
